@@ -2,6 +2,7 @@ Official implementation of [Zero-Shot Class Unlearning in CLIP with Synthetic Sa
 
 The paper has been accepted by WACV 2025. 
 
+Repo in construction...
 
 # Introduction
 
