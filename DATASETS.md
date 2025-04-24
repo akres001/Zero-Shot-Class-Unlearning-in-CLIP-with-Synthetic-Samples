@@ -69,7 +69,7 @@ oxford_flowers/
 ### StanfordDogs
 - Create a folder named `stanford_dogs/` under `$DATA`.
 - Download the zip files `images.tar` and `annotation.tar` from [here](wget http://vision.stanford.edu/aditya86/ImageNetDogs/images.tar) and [here](wget http://vision.stanford.edu/aditya86/ImageNetDogs/annotation.tar) and extract it to `$DATA/stanford_dogs/`. 
-- Move `split_alexey_stanford_dogs.json` into `$DATA/stanford_dogs` from `files` folder in this repo. 
+- Move `split_alexey_stanford_dogs.json` into `$DATA/stanford_dogs` from `files` folder in [this](https://github.com/akres001/CLIP_fewshot_imo/tree/main/files) repo. 
 
 The directory structure should look like
 ```
