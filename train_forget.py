@@ -237,8 +237,4 @@ if __name__ == '__main__':
     with open(output_base + "/logs.json", "w") as f:
         json.dump(all_logs, f)
         
-    while True:
-        import time
-        time.sleep(1000)
-        print("slept")
-        pass
+    
